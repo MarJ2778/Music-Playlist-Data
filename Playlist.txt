@@ -1,0 +1,10 @@
+Marian's Playlist - Select Favorite Tunes
+
+SongName, Artist, Year, Genre
+Cote d'Azur (feat. Russ Freeman), The Rippingtons, 2011, Jazz
+Steal My Show, TobyMac, 2012, CCM
+Let It Go, Various Artists and Idina Menzel, 2013, DisneySoundtrack
+Glow, Peter White, 2001, Jazz
+Halo (The Voice Performance), Jordan Smith, 2015, Pop
+Hope in Front of Me, Danny Gokey, 2014, Christian
+Heartland, Celtic Thunder Heritage, 2012, World Music
